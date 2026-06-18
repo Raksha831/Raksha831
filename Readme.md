@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d2137,80:0a3d62,100:00b4d8&height=200&section=header&text=Raksha%20Jahagirdar&fontSize=68&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Network%20Design%20Engineer%20%40%20AT%26T&descAlignY=58&descSize=18&descColor=90e0ef" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e1a,40:0d2137,80:0a3d62,100:00b4d8&amp;height=200&amp;section=header&amp;text=Raksha%20Jahagirdar&amp;fontSize=68&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Network%20Design%20Engineer%20%40%20AT%26T&amp;descAlignY=58&amp;descSize=18&amp;descColor=90e0ef" width="100%"/>
 
 </div>
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=640&height=55&lines=Routing+packets+across+enterprise+LAN%2FWAN+%F0%9F%8C%90;Cisco+%7C+SIP+%7C+VoIP+%7C+IPFLEX-BVOIP+%40+AT%26T;From+last-mile+circuits+to+live+call+support;Network+Design+%E2%80%A2+Troubleshooting+%E2%80%A2+Voice+%26+Data" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2800&amp;pause=900&amp;color=00B4D8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=55&amp;lines=Routing+packets+across+enterprise+LAN%2FWAN+%F0%9F%8C%90;Cisco+%7C+SIP+%7C+VoIP+%7C+IPFLEX-BVOIP+%40+AT%26T;From+last-mile+circuits+to+live+call+support;Network+Design+%E2%80%A2+Troubleshooting+%E2%80%A2+Voice+%26+Data" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -15,14 +15,14 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/raksha-jahagirdar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:rakshajahagirdar12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20IN-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20IN-00b4d8?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white"/>
 </div>
 
 ---
@@ -38,7 +38,7 @@
 │   [Internet Cloud]                                                   │
 │        │                                                             │
 │   ┌────▼────┐      WAN / AVPN         ┌─────────────┐              │
-│   │  AT&T   │ ══════════════════════▶ │  Customer   │              │
+│   │  AT&T   │ =======================> │  Customer   │              │
 │   │  Core   │     IPFLEX-BVOIP        │   Edge RTR  │              │
 │   └────┬────┘                         └──────┬──────┘              │
 │        │                                     │                      │
@@ -173,15 +173,25 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Profile
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=raksha-jahagirdar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00b4d8&icon_color=0096c7"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksha-jahagirdar&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=raksha-jahagirdar&theme=tokyonight&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"/>
+[![GitHub followers](https://img.shields.io/github/followers/Raksha831?label=Followers&style=for-the-badge&color=00b4d8&labelColor=0a0e1a&logo=github)](https://github.com/Raksha831)
+[![GitHub stars](https://img.shields.io/github/stars/Raksha831?label=Total%20Stars&style=for-the-badge&color=00b4d8&labelColor=0a0e1a&logo=github)](https://github.com/Raksha831)
+
+<br/>
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-00b4d8?style=for-the-badge&logoColor=white)
+![VoIP](https://img.shields.io/badge/VoIP%20%2F%20SIP-0a3d62?style=for-the-badge&logoColor=white)
+
+<br/>
+
+[![Profile](https://img.shields.io/badge/View%20GitHub%20Profile-Raksha831-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raksha831)
+
 </div>
 
 ---
@@ -202,11 +212,11 @@
   <p><i>Open to networking (pun intended 😄), collaborating, or discussing infrastructure, voice tech, and carrier-grade solutions.</i></p>
 
   <a href="https://linkedin.com/in/raksha-jahagirdar">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rakshajahagirdar12@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
 
   <br/><br/>
@@ -224,5 +234,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0a0e1a&height=110&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00b4d8,50:0a3d62,100:0a0e1a&amp;height=110&amp;section=footer" width="100%"/>
 </div>
