@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e1a,40:0d2137,80:0a3d62,100:00b4d8&amp;height=200&amp;section=header&amp;text=Raksha%20Jahagirdar&amp;fontSize=68&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Network%20Design%20Engineer%20%40%20AT%26T&amp;descAlignY=58&amp;descSize=18&amp;descColor=90e0ef" width="100%"/>
+# 🌐 Raksha Jahagirdar
+
+### Network Design Engineer · AT&T · Bangalore, India
+
+![Network](https://img.shields.io/badge/LAN%20%2F%20WAN-Design%20%26%20Operations-00b4d8?style=for-the-badge&logo=cisco&logoColor=white)
+![Voice](https://img.shields.io/badge/VoIP%20%2F%20SIP-IPFLEX--BVOIP-0a3d62?style=for-the-badge&logoColor=white)
+![AT&T](https://img.shields.io/badge/AT%26T-Employee-00a8e0?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -234,5 +239,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00b4d8,50:0a3d62,100:0a0e1a&amp;height=110&amp;section=footer" width="100%"/>
+  ![footer](https://img.shields.io/badge/Routing%20packets%20since%202024-00b4d8?style=for-the-badge&logo=cisco&logoColor=white)
 </div>
